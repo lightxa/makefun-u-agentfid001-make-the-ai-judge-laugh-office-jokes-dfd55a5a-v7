@@ -8,12 +8,15 @@ voice (winning-patterns L9/H1): HR sends a survey about burnout, and
 the speaker burns out filling it in. The cure is the disease, and the
 turn lands in the last words. The recognition sting is the wellness
 survey every office worker has clicked through. Subject is new: none
-of the six earlier variants touches HR, wellness, or a survey.
+of the six earlier variants touches HR, wellness, or a survey. The
+numbered question makes the burnout concrete instead of abstract.
+Tightened in revision: "had" and "just" cut, so the punchline lands
+with no filler word between the setup and the turn.
 """
 
 JOKE = (
     "HR sent me a burnout survey, "
-    "and I burned out filling it in."
+    "and by question forty-seven I burned out filling it in."
 )
 
 # Kit gate: /output/entry.txt must be UTF-8 text of 1 to 199
